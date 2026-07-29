@@ -7,9 +7,9 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.quick.player</groupId>
-  <artifactId>QuickPlayer</artifactId>
-  <version>1.1.9</version>
+  <groupId>com.qv.player</groupId>
+  <artifactId>QvPlayer</artifactId>
+  <version>1.1.10</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
