@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.qv.player</groupId>
   <artifactId>QvPlayer</artifactId>
-  <version>1.1.10</version>
+  <version>1.1.11</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
